@@ -8,14 +8,14 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            BlackDoc
+title:            BlackDoc- Title edited
 tagline:          Black Theme for Jekyll
-description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
-url:              https://github.com/karloespiritu/blackdoc
+description:      "Testing something something"
+url:              https://FreesteamWGUI.github.io
 baseurl:          /
 
 author:
-  name:           'Karlo Espiritu'
+  name:           'Shemsi Shneta'
   url:            https://twitter.com/karloespiritu
 
 paginate:         5
@@ -24,4 +24,4 @@ paginate:         5
 version:          1.0.1
 
 github:
-  repo:           https://github.com/karloespiritu/blackdoc
+  repo:           https://github.com/FreesteamWGUI/FreesteamWGUI.github.io
