@@ -34,13 +34,13 @@ html {
 }
 
 body {
-  color: #848482;
-  background-color: #000000;
+  color: #3ca2a2;
+  background-color: #21212e;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'EB Garamond', serif;
-  color: #aaa;
+  color: #3ca2a2;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
